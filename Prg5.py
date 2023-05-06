@@ -12,6 +12,6 @@ total = sci + sst + hin + eng + maths
 average = total / 5
 
 
-print("Total of 5 fubjects is : " ,total)
+print("Total of 5 subjects is : " ,total)
 
 print("Average of 5 subjects is : " ,average)
