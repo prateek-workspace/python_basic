@@ -11,4 +11,3 @@ a = b
 b = c
 
 print("Numbers after  swapping are : " , a , b)
-
