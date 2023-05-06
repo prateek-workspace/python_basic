@@ -12,5 +12,3 @@ b = c
 
 print("Numbers after  swapping are : " , a , b)
 
-
-
